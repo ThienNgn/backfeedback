@@ -1,5 +1,8 @@
 dev.js
 
+.env.production
+.env.development
+
 # Logs
 logs
 *.log
